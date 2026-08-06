@@ -1,11 +1,6 @@
 # COIT20252 – e-Portfolio 1: Process Analysis
 
 
-
-
-
-
-
 ## 1. What Business Analysis Is and Why It Matters
 
 ![YouTube](https://raw.githubusercontent.com/pshrishant/COIT20252-Business-Process-Management/main/ePortfolio1/Images/youtube.png)
@@ -39,9 +34,6 @@ This QAD (2025) blog post is an explanation of the concept of process mining. It
 
 I chose this artefact to see the process mining described in a real vendor context which is different than learning from lecture slides. This is important because it reflects how BPM is increasingly technology-enabled and technology-supported, a theme introduced early in the unit. It also gave me a current, concrete example of how the information systems analysis concepts are applied in real organisations.
 
-
-
-
 ## 4. Root Cause Analysis in Practice
 
 ![Journal Article](https://raw.githubusercontent.com/pshrishant/COIT20252-Business-Process-Management/main/ePortfolio1/Images/journal.png)
@@ -51,7 +43,6 @@ I chose this artefact to see the process mining described in a real vendor conte
 This is a 2025 peer-reviewed journal article, published in Information Systems (vol. 134), investigating how people actually perform root-cause analysis on business processes. The authors observe that RCA usually relies on event logs analysed through process mining, but that logs alone often hold too few data attributes to fully explain a problem. Their study involved 73 subjects using a prototype tool to test a simulated sales process that included event logs, databases and transaction logs to help them understand business-rule violations, including when employees approve payments over their authority. Combining with the other two sources the database and the event log was the most common combination, and combining with the three was the least frequent.
 
 I chose this artefact because it moves root cause as an active area of academic research, and not only a settled practice. Learning that event logs alone are often insufficient, and that real analysts draw on databases and transaction logs together.
-
 
 
 **Mindmap**
