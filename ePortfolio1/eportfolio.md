@@ -20,7 +20,7 @@ I selected this artefact because it highlighted a difference between business an
 
 The second artefact is the Week 3 lecture slide "Analysing the Process." This lists five core techniques analysts apply once a process has been selected for review (CQUniversity 2026, slide 30). Each of these technique targets a different part of process performance: cost analysis examines resource expenditure, cycle time analysis measures how long activities take, root cause analysis tracks problems back to their origin, sensitivity analysis models the effect of changing variables, and risk analysis identifies where a process is exposed to failure or disruption.
 
-I chose this slide because process analysis is in itself is not just one process, but a set of different processes from which an analyst picks to suit a problem. I realized that the differences between RCA and Risk Analysis was not just a matter of 'right formula' but a matter of professional judgement. This shows that BP professionals not only need to have analytical and system thinking approach but they need other techniques as well.
+I chose this slide because process analysis is in itself is not just one process, but a set of different processes from which an analyst picks to suit a problem. I realized that the differences between RCA and Risk Analysis was a matter of professional judgement rather than a set of formula. This shows that BP professionals not only need to have analytical and system thinking approach but they need other techniques as well.
 
 
 
@@ -42,7 +42,7 @@ I chose this artefact to see the process mining described in a real vendor conte
 
 This is a 2025 peer-reviewed journal article, published in Information Systems (vol. 134), investigating how people actually perform root-cause analysis on business processes. The authors observe that RCA usually relies on event logs analysed through process mining, but that logs alone often hold too few data attributes to fully explain a problem. Their study involved 73 subjects using a prototype tool to test a simulated sales process that included event logs, databases and transaction logs to help them understand business-rule violations, including when employees approve payments over their authority. Combining with the other two sources the database and the event log was the most common combination, and combining with the three was the least frequent.
 
-I chose this artefact because it moves root cause as an active area of academic research, and not only a settled practice. Learning that event logs alone are often insufficient, and that real analysts draw on databases and transaction logs together.
+I chose this artefact because it moves root cause as an active area of academic research. Learning that event logs alone are often insufficient, and that real analysts draw on databases and transaction logs together.
 
 
 **Mindmap**
