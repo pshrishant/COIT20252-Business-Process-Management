@@ -45,7 +45,7 @@ This is a 2025 peer-reviewed journal article, published in Information Systems (
 I chose this artefact because it moves root cause as an active area of academic research. Learning that event logs alone are often insufficient, and that real analysts draw on databases and transaction logs together.
 
 
-**Mindmap**
+**Draw.io Mindmap**
 
 ![Mindmap](https://raw.githubusercontent.com/pshrishant/COIT20252-Business-Process-Management/main/ePortfolio1/Images/mimdmap_drawio.png)
 
